@@ -1,5 +1,6 @@
 # Project2_CatsVsDogs_classification
 🐶🐱 Cats vs Dogs Image Classification using CNN
+
 📌 Project Overview
 
 This project implements a Convolutional Neural Network (CNN) to classify images of cats and dogs.
@@ -15,6 +16,7 @@ Source: Kaggle
 
 Link:
 https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
+
 ⚙️ Technologies Used
 
 Python
@@ -56,6 +58,7 @@ Optimizer: Adam
 Evaluation Metric: Accuracy
 
 🔄 Data Preprocessing & Augmentation
+
 Preprocessing
 
 Image resizing to 128 × 128
